@@ -1,0 +1,45 @@
+body{
+margin: 0;
+background-color: #011F3F;
+}
+
+.status{
+font-family: 'Press Start 2P', cursive;
+text-align: center;
+font-size: 3rem;
+margin: 5%;
+color: #FEF2BF;
+}
+
+.container{
+ margin-left: 400px;
+}
+
+.tile1,.tile2,.tile3,.tile4{
+ display: inline-block;
+border: 10px solid black;
+border-radius: 20%;
+width: 200px;
+height: 200px;
+margin: 25px;
+}
+
+.green{
+background-color: green;
+}
+
+.red{
+background-color: red;
+}
+
+.blue{
+background-color: blue;
+}
+
+.yellow{
+background-color: yellow;
+}
+
+.box{
+ box-shadow: 2px 5px 4px 5px wheat; 
+}
