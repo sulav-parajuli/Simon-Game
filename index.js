@@ -24,7 +24,7 @@ function createpattern(random) {
     level++;
     b = level;
     a = -1;
-    document.querySelector(".status").innerHTML = "Level" + level;
+    document.querySelector(".status").innerHTML = "Level " + level;
     setTimeout(function() {
         makesound(random);
     }, 1000);
