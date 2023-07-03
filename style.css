@@ -12,7 +12,8 @@ color: #FEF2BF;
 }
 
 .container{
- margin-left: 400px;
+    display: flex;
+ justify-content: center;
 }
 
 .tile1,.tile2,.tile3,.tile4{
